@@ -1,0 +1,284 @@
+.container {
+    width: 1200px;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.header-logo-link {
+    margin-right: 10px;
+}
+
+.header-list{
+    display: flex;
+    list-style: none;
+}
+
+.header-item {
+    margin-right: 42px;
+}
+
+.header-list-link {
+    text-decoration: none;
+    color: #163561;
+}
+
+.user-box {
+    margin-left: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.user-box-list {
+    display: flex;
+    list-style: none;
+
+}
+
+.user-box-item {
+    margin-right: 50px;
+}
+
+.user-box-link {
+    width: 188px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #99BAED;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+    box-shadow: 3px 4px 10px #99BAED;
+}
+
+.inside-block {
+    display: flex;
+    align-items: center;
+    
+}
+
+.inside-title {
+    width: 300px;
+    height: 100px;
+    color: #163561;
+    font-size: 35px;
+}
+
+.inside-des {
+    width: 300px;
+    height: 100px;
+    color: #153461;
+    opacity: 0.65;
+    letter-spacing: 0.03em;
+    font-size: 15px;
+    margin-top: 50px;
+}
+
+.inside-box {
+    margin-right: 265px;
+    margin-left: 30px;
+}
+
+.inside-span {
+    color: #FBB400;
+}
+
+.inside-link {
+    width: 188px;
+    height: 40px;
+    display: flex;
+    border-radius: 20px;
+    background-color: #99BAED;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 3px 4px 10px #99BAED;
+}
+
+.history {
+    margin-top: 100px;
+}
+
+.history-block {
+    display: flex;
+    align-items: center;
+}
+
+.history-box {
+    margin-left: 149px;
+}
+
+.history-title {
+    width: 300px;
+    height: 100px;
+    font-size: 35px;
+    color: #163561;
+}
+
+.history-span {
+    color: #FBB400;
+}
+
+.history-des {
+    width: 300px;
+    height: 100px;
+    color: #153461;
+    opacity: 0.65;
+    letter-spacing: 0.03em;
+    font-size: 15px;
+    margin-top: -20px;
+}
+
+.history-link {
+    width: 188px;
+    height: 40px;
+    display: flex;
+    border-radius: 20px;
+    background-color: #99BAED;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 3px 4px 10px #99BAED;
+}
+
+.service {
+    margin-top: 150px;
+    
+}
+
+.service-title {
+    width: 300px;
+    height: 100px;
+    font-size: 35px;
+    text-align: center;
+    color: #163561;
+    margin-left: 530px;
+    margin-right: 490px;
+}
+
+.service-span {
+    color: #FBB400;
+}
+
+.service-list {
+    display: flex;
+    list-style: none;
+    
+}
+
+.service-item {
+    border-radius: 20px;
+    background-color: #FAFBFF;
+    text-align: center;
+    margin: 15px;
+    align-items: center;
+    padding: 30px;
+    box-shadow: 0px 5px 0px #99BAED;
+}
+
+.service-title2 {
+    color: #163561;
+    letter-spacing: 0.03em;
+    opacity: 0.65;
+    font-size: 25px;
+}
+
+.service-link {
+    text-decoration: none;
+}
+
+.service-des {
+    width: 300px;
+    height: 100px;
+}
+
+.gallery {
+    margin-top: 100px;
+}
+
+.gallery-title {
+    width: 300px;
+    height: 100px;
+    font-size: 35px;
+    text-align: center;
+    color: #163561;
+    margin-left: 520px;
+    margin-right: 480px;
+}
+
+.gallery-span {
+    color: #FBB400;
+}
+
+.gallery-list {
+    list-style: none;
+    display: flex;
+    flex-flow: wrap row;
+    margin: 0 100px;
+}
+
+.gallery-item {
+    margin: 10px 10px;
+}
+
+.gallery-link {
+    width: 188px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #99BAED;
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+    line-height: 40px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 3px 4px 10px #99BAED;
+    margin-left: 550px;
+    margin-right: 530px;
+}
+
+.end {
+    margin-top: 100px;
+}
+
+.end-link {
+    margin: 0px 510px 0px 510px;
+    width: 300px;
+    height: 100px;
+    margin-bottom: 50px;
+}
+
+.end-des {
+    
+    width: 350px;
+    height: 100px;
+    color: #153461;
+    opacity: 0.65;
+    letter-spacing: 0.03em;
+    font-size: 15px;
+    margin: 0px 450px 0px 450px;
+    text-align: center;
+}
+
+.end-list {
+    list-style: none;
+    display: flex;
+    margin: 0px 500px 0px 450px;
+}
+
+.end-item {
+    margin: 5px;
+}
+
+.end-hr {
+    color: #000;
+    width: 1000px;
+    margin-top: 20px;
+}
